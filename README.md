@@ -73,15 +73,15 @@ You can view the detailed HR Analytics report here.
 ## **8. Tools Used**
 This project was built using the following tools:
 
-## **Power BI Desktop:** For data visualization and report generation.
-Excel/CSV Files: Used as the data source for employee details.
+#### Power BI Desktop: For data visualization and report generation.
+#### Excel/CSV Files: Used as the data source for employee details.
 
 ## **9. How to Run**
 Follow these steps to run the project:
 
 ## Clone the repository:
 
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report.git
 
 Open the Power BI File:
 Open the **.pbix** file using Power BI Desktop.
