@@ -44,7 +44,7 @@ Displays attrition trends based on employees' educational qualifications (e.g., 
 
 The dataset used in this analysis is available in this repository. You can download it using the link below:
 
-- [Download the dataset](path/to/dataset.csv)
+- [Download the dataset](https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report/blob/main/HR_Analytics%20dataset.csv)
 
 ## **6. Screenshots**
 Here are some screenshots showcasing different aspects of the dashboard:
@@ -54,16 +54,20 @@ Here are some screenshots showcasing different aspects of the dashboard:
 ![Attrition by Education](https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report/blob/main/Attrition%20by%20Education.png)
 
 - **Human Resources Department:**
+  
   ![](https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report/blob/main/HR%20Department.png)
   
 - **Research And Development:**
-  !(https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report/blob/main/R%20%26%20D%20Department.png)
+  
+  ![](https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report/blob/main/R%20%26%20D%20Department.png)
   
 - **Sales:**
-  !(https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report/blob/main/Sales%20Department.png)
+  
+  ![](https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report/blob/main/Sales%20Department.png)
 
 ## **7. Full Report**
 You can view the detailed HR Analytics report here.
+
 ![Full Report](https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report/blob/main/Full%20Report.png)
 
 ## **8. Tools Used**
