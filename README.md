@@ -79,15 +79,15 @@ This project was built using the following tools:
 ## **9. How to Run**
 Follow these steps to run the project:
 
-## Clone the repository:
+#### -Clone the repository:
 
-git clone https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report.git
+    git clone https://github.com/Yogesh3454/HR-Analytics-Power-BI-Report.git
 
-Open the Power BI File:
-Open the **.pbix** file using Power BI Desktop.
+    Open the Power BI File:
+    Open the **.pbix** file using Power BI Desktop.
 
-## Analyze the Dashboard:
-Explore the pre-built visuals and interact with the dashboard using your dataset.
+#### -Analyze the Dashboard:
+    Explore the pre-built visuals and interact with the dashboard using your dataset.
 
 ## **10. License**
 This project is licensed under the **MIT License**.
